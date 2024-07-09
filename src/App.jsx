@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <main>
-        <h1>booster math landing</h1>
+        <h1>booster math landing cambio</h1>
       </main>
     </>
   );
